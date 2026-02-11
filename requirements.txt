@@ -1,0 +1,11 @@
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+yara-python>=4.5.0
+plyara>=2.1.1
+pefile>=2023.2.7
+python-multipart>=0.0.6
+jinja2>=3.1.3
+pydantic>=2.5.0
+aiofiles>=23.2.1
+# Optional: pywebview for desktop mode (requires Python <= 3.12)
+# pywebview>=4.4.1
